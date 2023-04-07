@@ -5,6 +5,7 @@ SpringBoard Project. Use Dockerized Kafka Zookeeper and Broker, Producer and Gen
 
 ## Description
 Simulate banking transactions, and parse into two topics "legit" and "fraud" based on conditions. 
+...In this scenario, anything over $900 is considered fraud.
 
 ## Technologies
 - Python 3.6

@@ -14,11 +14,15 @@ In this scenario, anything over $900 is considered fraud.
 - Kafka
 
 ## Local Execution
+
 Generator Transactions
+
 ![Alt Text](screenshot/generator.JPG?raw=true "fraud result")
 
 Legitimate Transaction Result
+
 ![Alt Text](screenshot/legit.JPG?raw=true "legit result")
 
 Fraud Transaction Result
+
 ![Alt Text](screenshot/fraud.JPG?raw=true "fraud result")
